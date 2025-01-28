@@ -1,4 +1,4 @@
-<h1 align="center">Eaglercraft1.8.8-Server Panel</h1>
+<h1 align="center">Eaglercraft1.8.9-Server Panel</h1>
 <p align="center"><i>Made by me and other.</i></p>
 <br>
 <h1 align="center">The panel works with console, minecraft 1.17.1, waterfall 1.20 #562</h1>
@@ -18,3 +18,6 @@
 <h2> Renember to use chmod +x name.sh </h2>
 <h2> Change the "name.sh" according to the files ^ above </h2>
 <p>To start the script</p>
+
+**Video coming out soon, How to use it**
+https://www.youtube.com/@Mastercs0
