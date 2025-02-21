@@ -1,8 +1,8 @@
-<h1 align="center">Eaglercraft1.8.9-Server Panel</h1>
+<h1 align="center">Eaglercraft1.9.9-Server Panel</h1>
 <p align="center"><i>Made by me and other.</i></p>
 <br>
-Orginal files from Ismaeltech!
-<h1 align="center">The panel works with console, minecraft 1.17.1, waterfall 1.20 #562</h1>
+Orginal files from Ismaeltech, Updated his Files!
+<h1 align="center">The panel works with console, minecraft 1.17.1 to Minecraft 1.21.1, waterfall 1.21 #562</h1>
 <p align="center"><i>Maybe soon a ngrok or cloudflare tunnels.</i></p>
 <br>
 <h1> Renember to use this commands IN CODESPACE!!!! </h1>
